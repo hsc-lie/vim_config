@@ -1,3 +1,9 @@
+.vim/autoload/*
+!.vim/autoload/.gitkeep
+
 .vim/colors/*
+!.vim/colors/.gitkeep
+
 .vim/plugged/*
+!.vim/plugged/.gitkeep
 
